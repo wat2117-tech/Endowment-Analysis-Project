@@ -1,0 +1,106 @@
+institution_id,fiscal_year,endowment_value_millions,annual_return_pct,spending_millions,spending_rate_pct,spending_as_pct_of_budget,new_gifts_millions,source_type,source_url,source_title,confidence,notes
+penn,2009,5170,-15.7,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2009,medium,GFC year; Penn lost less than most Ivies; compiled from published figures
+penn,2010,5669,12.6,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2010,medium,Compiled from published figures; verify against audited financials
+penn,2011,6582,18.6,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2011,medium,Compiled from published figures; verify against audited financials
+penn,2012,6755,1.6,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2012,medium,Compiled from published figures; verify against audited financials
+penn,2013,7741,14.4,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2013,medium,Compiled from published figures; verify against audited financials
+penn,2014,9583,17.5,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2014,medium,Compiled from published figures; verify against audited financials
+penn,2015,10100,7.4,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2015,medium,Compiled from published figures; verify against audited financials
+penn,2016,10715,-1.4,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2016,medium,Compiled from published figures; verify against audited financials
+penn,2017,12213,14.3,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2017,medium,Compiled from published figures; verify against audited financials
+penn,2018,13777,12.9,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2018,medium,Compiled from published figures; verify against audited financials
+penn,2019,14650,6.5,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2019,medium,Compiled from published figures; verify against audited financials
+penn,2020,14877,3.4,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2020,medium,Compiled from published figures; verify against audited financials
+penn,2021,20524,41.1,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2021,medium,Compiled from published figures; verify against audited financials
+penn,2022,20724,0.0,,,,,investment_report,https://www.finance.upenn.edu,Penn Office of Investments FY2022,medium,Penn reported flat 0.0 pct in FY2022; compiled from published figures
+penn,2023,21000,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2023,medium,Value anchor only; FY2023 return pending primary source
+penn,2024,22300,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2024,medium,Value anchor only; FY2024 return pending primary source
+columbia,2009,5893,-16.1,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2009,medium,GFC year; compiled from published figures
+columbia,2010,6517,17.3,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2010,medium,Best Ivy return FY2010; compiled from published figures
+columbia,2011,7800,23.6,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2011,medium,Compiled from published figures; verify against audited financials
+columbia,2012,7654,2.3,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2012,medium,Compiled from published figures; verify against audited financials
+columbia,2013,8200,11.5,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2013,medium,Compiled from published figures; verify against audited financials
+columbia,2014,9223,17.5,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2014,medium,Compiled from published figures; verify against audited financials
+columbia,2015,9639,,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2015,medium,Value only; FY2015 return pending primary source
+columbia,2016,9041,-0.9,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2016,medium,Compiled from published figures; verify against audited financials
+columbia,2017,9997,13.7,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2017,medium,Compiled from published figures; verify against audited financials
+columbia,2018,10869,9.0,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2018,medium,Compiled from published figures; verify against audited financials
+columbia,2019,10951,3.8,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2019,medium,Compiled from published figures; verify against audited financials
+columbia,2020,11257,5.5,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2020,medium,Compiled from published figures; verify against audited financials
+columbia,2021,14350,32.3,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2021,medium,Compiled from published figures; verify against audited financials
+columbia,2022,13279,-7.6,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2022,medium,Worst Ivy FY2022 return; compiled from published figures
+columbia,2023,13640,4.7,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2023,medium,Compiled from published figures; verify against audited financials
+columbia,2024,14788,11.5,,,,,investment_report,https://www.columbia.edu/content/investment-management-company,Columbia IMC FY2024,medium,Compiled from published figures; verify against audited financials
+brown,2015,3300,5.7,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2015,medium,Compiled from published figures; verify against audited financials
+brown,2016,3200,-1.1,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2016,medium,Compiled from published figures; verify against audited financials
+brown,2017,3500,13.4,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2017,medium,Compiled from published figures; verify against audited financials
+brown,2018,3800,13.2,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2018,medium,Compiled from published figures; verify against audited financials
+brown,2019,4200,12.4,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2019,medium,Compiled from published figures; verify against audited financials
+brown,2020,4700,12.1,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2020,medium,Best Ivy FY2020 return; compiled from published figures
+brown,2021,6900,51.5,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2021,medium,Best Ivy FY2021 return; compiled from published figures
+brown,2022,6500,-4.6,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2022,medium,Compiled from published figures; verify against audited financials
+brown,2023,6600,2.7,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2023,medium,Compiled from published figures; verify against audited financials
+brown,2024,7200,11.3,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2024,medium,Compiled from published figures; verify against audited financials
+cornell,2009,3966,-26.0,,,,,investment_report,https://www.dfa.cornell.edu/treasurer/investments,Cornell Investment Office FY2009,medium,GFC year; among worst Ivy losses; compiled from published figures
+cornell,2016,5758,-3.3,,,,,investment_report,https://www.dfa.cornell.edu/treasurer/investments,Cornell Investment Office FY2016,medium,Worst Ivy FY2016 return; compiled from published figures
+cornell,2019,7328,5.3,,,,,investment_report,https://www.dfa.cornell.edu/treasurer/investments,Cornell Investment Office FY2019,medium,Compiled from published figures; verify against audited financials
+cornell,2020,7218,1.9,,,,,investment_report,https://www.dfa.cornell.edu/treasurer/investments,Cornell Investment Office FY2020,medium,Compiled from published figures; verify against audited financials
+cornell,2021,10000,41.9,,,,,investment_report,https://www.dfa.cornell.edu/treasurer/investments,Cornell Investment Office FY2021,medium,Compiled from published figures; verify against audited financials
+cornell,2022,9800,-1.3,,,,,investment_report,https://www.dfa.cornell.edu/treasurer/investments,Cornell Investment Office FY2022,medium,Compiled from published figures; verify against audited financials
+cornell,2023,9999,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2023,medium,Value anchor only; FY2023 return pending primary source
+cornell,2024,10700,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2024,medium,Value anchor only; FY2024 return pending primary source
+dartmouth,2009,3660,-19.6,,,,,investment_report,https://www.dartmouth.edu/investments,Dartmouth Investment Office FY2009,medium,GFC year; compiled from published figures
+dartmouth,2018,5494,12.2,,,,,investment_report,https://www.dartmouth.edu/investments,Dartmouth Investment Office FY2018,medium,Compiled from published figures; verify against audited financials
+dartmouth,2019,5731,7.5,,,,,investment_report,https://www.dartmouth.edu/investments,Dartmouth Investment Office FY2019,medium,Compiled from published figures; verify against audited financials
+dartmouth,2020,5975,7.6,,,,,investment_report,https://www.dartmouth.edu/investments,Dartmouth Investment Office FY2020,medium,Compiled from published figures; verify against audited financials
+dartmouth,2021,8484,46.5,,,,,investment_report,https://www.dartmouth.edu/investments,Dartmouth Investment Office FY2021,medium,Compiled from published figures; verify against audited financials
+dartmouth,2022,8100,-3.1,,,,,investment_report,https://www.dartmouth.edu/investments,Dartmouth Investment Office FY2022,medium,Compiled from published figures; verify against audited financials
+dartmouth,2023,7900,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2023,medium,Value anchor only; FY2023 return pending primary source
+dartmouth,2024,8300,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2024,medium,Value anchor only; FY2024 return pending primary source
+duke,2009,4441,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2009,medium,Value anchor only; DUMAC FY2009 return pending primary source
+duke,2019,8609,6.9,,,,,investment_report,https://dumac.duke.edu,DUMAC FY2019,medium,Compiled from published figures; verify against audited financials
+duke,2020,8474,0.7,,,,,investment_report,https://dumac.duke.edu,DUMAC FY2020,medium,Compiled from published figures; verify against audited financials
+duke,2021,12692,55.9,,,,,investment_report,https://dumac.duke.edu,DUMAC FY2021,medium,Among best FY2021 returns nationally; compiled from published figures
+duke,2022,12130,-1.5,,,,,investment_report,https://dumac.duke.edu,DUMAC FY2022,medium,Compiled from published figures; verify against audited financials
+duke,2023,11600,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2023,medium,Value anchor only; FY2023 return pending primary source
+duke,2024,11900,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2024,medium,Value anchor only; FY2024 return pending primary source
+uchicago,2020,8619,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2020,medium,Value anchor only; return pending primary source
+uchicago,2021,11600,37.6,,,,,investment_report,https://www.uchicago.edu,UChicago Investment Office FY2021,medium,Compiled from published figures; verify against audited financials
+uchicago,2022,10300,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2022,medium,Value anchor only; return pending primary source
+uchicago,2023,10100,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2023,medium,Value anchor only; return pending primary source
+uchicago,2024,10400,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2024,medium,Value anchor only; return pending primary source
+northwestern,2020,11100,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2020,medium,FY ends Aug 31; value anchor only; return pending primary source
+northwestern,2021,14900,42.2,,,,,investment_report,https://www.northwestern.edu/investment,Northwestern Investment Office FY2021,medium,FY ends Aug 31; compiled from published figures
+northwestern,2022,13800,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2022,medium,FY ends Aug 31; value anchor only; return pending primary source
+northwestern,2023,13700,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2023,medium,FY ends Aug 31; value anchor only; return pending primary source
+northwestern,2024,14300,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2024,medium,FY ends Aug 31; value anchor only; return pending primary source
+rice,2021,8080,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2021,medium,Value anchor only; Rice Management Company return pending primary source
+rice,2022,7800,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2022,medium,Value anchor only; return pending primary source
+rice,2023,7600,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2023,medium,Value anchor only; return pending primary source
+rice,2024,8000,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2024,medium,Value anchor only; return pending primary source
+umich,2014,9700,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2014,medium,Value anchor only; return pending primary source
+umich,2015,9952,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2015,medium,Value anchor only; return pending primary source
+umich,2016,9743,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2016,medium,Value anchor only; return pending primary source
+umich,2017,10936,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2017,medium,Value anchor only; return pending primary source
+umich,2018,11900,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2018,medium,Value anchor only; return pending primary source
+umich,2019,12448,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2019,medium,Value anchor only; return pending primary source
+umich,2020,12476,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2020,medium,Value anchor only; return pending primary source
+umich,2021,17000,40.6,,,,,investment_report,https://finance.umich.edu,Michigan Office of Investments FY2021,medium,Compiled from published figures; verify against annual financial report
+umich,2022,17300,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2022,medium,Value anchor only; return pending primary source
+umich,2023,17900,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2023,medium,Value anchor only; return pending primary source
+umich,2024,19200,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2024,medium,Value anchor only; return pending primary source
+uva,2019,9600,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2019,medium,Value anchor only; UVIMCO long-term pool return pending primary source
+uva,2020,9900,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2020,medium,Value anchor only; return pending primary source
+uva,2021,14500,49.0,,,,,investment_report,https://www.uvimco.org,UVIMCO Annual Report FY2021,medium,UVIMCO long-term pool; compiled from published figures
+uva,2022,13800,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2022,medium,Value anchor only; return pending primary source
+uva,2023,13600,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2023,medium,Value anchor only; return pending primary source
+ut_system,2020,31958,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2020,medium,FY ends Aug 31; PUF+GEF combined; UTIMCO returns fund-specific and pending primary source
+ut_system,2021,42900,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2021,medium,FY ends Aug 31; PUF+GEF combined; value anchor only
+ut_system,2022,42700,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2022,medium,FY ends Aug 31; PUF+GEF combined; value anchor only
+ut_system,2023,44900,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2023,medium,FY ends Aug 31; PUF+GEF combined; value anchor only
+tamu_system,2021,18028,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2021,medium,FY ends Aug 31; system-wide; value anchor only; returns pending primary source
+williams,2020,2900,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2020,medium,Value anchor only; return pending primary source
+williams,2021,4200,49.9,,,,,investment_report,https://investment.williams.edu,Williams Investment Office FY2021,medium,Best LAC FY2021 return; compiled from published figures
+amherst,2021,3775,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2021,medium,Value anchor only; return pending primary source
+pomona,2021,2989,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2021,medium,Value anchor only; return pending primary source
+grinnell,2021,3057,,,,,,nacubo,https://www.nacubo.org,NACUBO-TIAA Study FY2021,medium,Value anchor only; return pending primary source
