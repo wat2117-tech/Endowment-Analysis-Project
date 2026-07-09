@@ -263,12 +263,19 @@ def import_csv(conn, filepath):
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON CONFLICT(institution_id, fiscal_year) DO UPDATE SET
                     endowment_value_millions = excluded.endowment_value_millions,
+                    endowment_value_source_id = excluded.endowment_value_source_id,
+                    endowment_value_confidence = excluded.endowment_value_confidence,
                     annual_return_pct = excluded.annual_return_pct,
+                    return_source_id = excluded.return_source_id,
+                    return_confidence = excluded.return_confidence,
                     spending_millions = excluded.spending_millions,
                     spending_rate_pct = excluded.spending_rate_pct,
                     spending_as_pct_of_budget = excluded.spending_as_pct_of_budget,
+                    spending_source_id = excluded.spending_source_id,
                     new_gifts_millions = excluded.new_gifts_millions,
-                    notes = excluded.notes
+                    gifts_source_id = excluded.gifts_source_id,
+                    notes = excluded.notes,
+                    data_quality_score = excluded.data_quality_score
             """, (
                 inst, year,
                 to_float(row.get('endowment_value_millions', '')), source_id, confidence,

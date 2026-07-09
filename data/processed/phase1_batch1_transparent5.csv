@@ -1,0 +1,104 @@
+institution_id,fiscal_year,endowment_value_millions,annual_return_pct,spending_millions,spending_rate_pct,spending_as_pct_of_budget,new_gifts_millions,source_type,source_url,source_title,confidence,notes
+yale,2000,10085,41.0,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2000,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2001,10725,9.2,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2001,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2002,10524,0.7,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2002,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2003,11035,8.8,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2003,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2004,12747,19.4,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2004,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2005,15225,22.3,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2005,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2006,18031,22.9,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2006,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2007,22530,28.0,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2007,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2008,22870,4.5,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2008,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2009,16327,-24.6,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2009,medium,GFC trough year; compiled from Yale Investments Office published figures
+yale,2010,16652,8.9,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2010,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2011,19374,21.9,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2011,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2012,19345,4.7,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2012,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2013,20780,12.5,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2013,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2014,23900,20.2,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2014,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2015,25572,11.5,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2015,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2016,25409,3.4,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2016,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2017,27176,11.3,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2017,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2018,29351,12.3,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2018,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2019,30315,5.7,,,,,investment_report,https://investments.yale.edu,Yale Endowment Annual Report FY2019,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2020,31201,6.8,,,,,investment_report,https://investments.yale.edu,Yale Endowment Update FY2020,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2021,42282,40.2,,,,,investment_report,https://investments.yale.edu,Yale Endowment Update FY2021,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2022,41383,0.8,,,,,investment_report,https://investments.yale.edu,Yale Endowment Update FY2022,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2023,40745,1.8,,,,,investment_report,https://investments.yale.edu,Yale Endowment Update FY2023,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+yale,2024,41442,5.7,,,,,investment_report,https://investments.yale.edu,Yale Endowment Update FY2024,medium,Compiled from Yale Investments Office published figures; verify against audited financials
+harvard,2000,19100,32.2,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2000,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2001,18300,-2.7,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2001,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2002,17200,-0.5,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2002,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2003,19300,12.5,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2003,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2004,22600,21.1,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2004,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2005,25900,19.2,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2005,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2006,29200,16.7,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2006,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2007,34900,23.0,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2007,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2008,36900,8.6,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2008,medium,Pre-GFC peak; compiled from HMC published figures
+harvard,2009,26000,-27.3,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2009,medium,GFC trough; worst Ivy loss; compiled from HMC published figures
+harvard,2010,27400,11.0,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2010,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2011,32000,21.4,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2011,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2012,30700,-0.05,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2012,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2013,32700,11.3,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2013,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2014,36400,15.4,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2014,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2015,37600,5.8,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2015,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2016,35700,-2.0,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2016,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2017,37100,8.1,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2017,medium,Narv-era restructuring begins; compiled from HMC published figures
+harvard,2018,39200,10.0,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2018,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2019,40900,6.5,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2019,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2020,41900,7.3,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2020,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2021,53200,33.6,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2021,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2022,50900,-1.8,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2022,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2023,50700,2.9,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2023,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+harvard,2024,53200,9.6,,,,,investment_report,https://www.hmc.harvard.edu,HMC Annual Report FY2024,medium,Compiled from Harvard Management Company published figures; verify against audited financials
+princeton,2000,8400,35.5,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2000,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2007,15800,24.7,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2007,medium,Compiled from PRINCO published figures; FY2001-2006 pending primary source collection
+princeton,2008,16350,5.6,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2008,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2009,12600,-23.7,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2009,medium,GFC trough; compiled from PRINCO published figures
+princeton,2010,14400,14.7,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2010,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2011,17100,21.9,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2011,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2012,17000,3.1,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2012,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2013,18200,11.7,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2013,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2014,21000,19.6,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2014,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2015,22700,12.7,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2015,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2016,22200,0.8,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2016,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2017,23800,12.5,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2017,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2018,25900,14.2,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2018,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2019,26100,6.2,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2019,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2020,26600,5.6,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2020,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2021,37700,46.9,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2021,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2022,35800,-1.5,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2022,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2023,34100,-1.7,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2023,medium,Compiled from PRINCO published figures; verify against audited financials
+princeton,2024,34100,3.9,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2024,medium,Compiled from PRINCO published figures; verify against audited financials
+mit,2008,10100,3.2,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2008,medium,Compiled from MITIMCo published figures; FY2000-2007 pending primary source collection
+mit,2009,8000,-20.7,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2009,medium,GFC trough; compiled from MITIMCo published figures
+mit,2010,8300,10.2,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2010,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2011,9700,17.9,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2011,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2012,10150,8.0,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2012,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2013,11000,11.1,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2013,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2014,12400,19.2,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2014,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2015,13500,13.2,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2015,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2016,13200,0.8,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2016,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2017,14800,14.3,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2017,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2018,16400,13.5,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2018,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2019,17400,8.8,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2019,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2020,18400,8.3,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2020,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2021,27400,55.5,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2021,medium,Best large-endowment FY21 return; compiled from MITIMCo published figures
+mit,2022,24700,-5.3,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2022,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2023,23500,-2.9,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2023,medium,Compiled from MITIMCo published figures; verify against audited financials
+mit,2024,24600,8.9,,,,,investment_report,https://mitimco.org,MITIMCo Report FY2024,medium,Compiled from MITIMCo published figures; verify against audited financials
+stanford,2008,17200,,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2008,medium,FY ends Aug 31; value only; return pending primary source
+stanford,2009,12600,-25.9,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2009,medium,FY ends Aug 31; GFC trough; compiled from SMC published figures
+stanford,2010,13800,14.4,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2010,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2011,16500,22.4,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2011,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2012,17000,1.0,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2012,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2013,18700,12.1,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2013,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2014,21400,17.0,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2014,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2015,22200,7.0,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2015,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2016,22400,-0.4,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2016,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2017,24800,13.1,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2017,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2018,26500,11.3,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2018,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2019,27700,6.5,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2019,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2020,28900,5.6,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2020,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2021,37800,40.1,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2021,medium,FY ends Aug 31; compiled from SMC published figures
+stanford,2022,36300,,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2022,medium,FY ends Aug 31; value only; return pending primary source
+stanford,2023,36500,,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2023,medium,FY ends Aug 31; value only; return pending primary source
+stanford,2024,37600,,,,,,investment_report,https://smc.stanford.edu,Stanford Management Company Report FY2024,medium,FY ends Aug 31; value only; return pending primary source
