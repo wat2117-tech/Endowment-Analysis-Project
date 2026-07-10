@@ -1,0 +1,204 @@
+institution_id,fiscal_year,endowment_value_millions,annual_return_pct,spending_millions,spending_rate_pct,spending_as_pct_of_budget,new_gifts_millions,source_type,source_url,source_title,confidence,notes
+mit,2000,6475,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; verify against MIT Treasurer report
+mit,2001,6135,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2001,low,Rough recall from NACUBO tables; verify against MIT Treasurer report
+mit,2002,5359,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2002,low,Rough recall from NACUBO tables; verify against MIT Treasurer report
+mit,2003,5133,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2003,low,Rough recall from NACUBO tables; verify against MIT Treasurer report
+mit,2004,5865,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2004,low,Rough recall from NACUBO tables; verify against MIT Treasurer report
+mit,2005,6712,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2005,medium,Compiled from NACUBO tables; verify against MIT Treasurer report
+mit,2006,8368,23.0,,,,,investment_report,https://mitimco.org,MIT Treasurer Report FY2006,low,Return is rough recall; verify against MIT Treasurer report
+mit,2007,9980,22.1,,,,,investment_report,https://mitimco.org,MIT Treasurer Report FY2007,low,Return is rough recall; verify against MIT Treasurer report
+stanford,2000,8900,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,medium,FY ends Aug 31; compiled from NACUBO tables
+stanford,2001,8250,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2001,low,FY ends Aug 31; rough recall from NACUBO tables
+stanford,2002,7613,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2002,low,FY ends Aug 31; rough recall from NACUBO tables
+stanford,2003,8614,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2003,low,FY ends Aug 31; rough recall from NACUBO tables
+stanford,2004,9922,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2004,low,FY ends Aug 31; rough recall from NACUBO tables
+stanford,2005,12205,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2005,medium,FY ends Aug 31; compiled from NACUBO tables
+stanford,2006,14085,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2006,medium,FY ends Aug 31; compiled from NACUBO tables
+stanford,2007,17165,23.4,,,,,investment_report,https://smc.stanford.edu,SMC Report FY2007,low,FY ends Aug 31; return is rough recall; verify against SMC report
+princeton,2001,8359,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2001,low,Rough recall from NACUBO tables; verify against PRINCO report
+princeton,2002,8320,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2002,low,Rough recall from NACUBO tables; verify against PRINCO report
+princeton,2003,8730,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2003,low,Rough recall from NACUBO tables; verify against PRINCO report
+princeton,2004,9928,16.8,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2004,low,Return is rough recall; verify against PRINCO report
+princeton,2005,11207,17.0,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2005,low,Return is rough recall; verify against PRINCO report
+princeton,2006,13045,19.5,,,,,investment_report,https://princo.princeton.edu,PRINCO Report FY2006,low,Return is rough recall; verify against PRINCO report
+penn,2000,3200,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+penn,2001,3382,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2001,low,Rough recall from NACUBO tables; upgrade via primary source
+penn,2002,3025,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2002,low,Rough recall from NACUBO tables; upgrade via primary source
+penn,2003,3547,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2003,low,Rough recall from NACUBO tables; upgrade via primary source
+penn,2004,4019,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2004,low,Rough recall from NACUBO tables; upgrade via primary source
+penn,2005,4370,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2005,low,Rough recall from NACUBO tables; upgrade via primary source
+penn,2006,5313,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2006,medium,Compiled from NACUBO tables; verify against audited financials
+penn,2007,6635,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2007,medium,Compiled from NACUBO tables; verify against audited financials
+penn,2008,6233,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; FY2008 return pending primary source
+columbia,2000,4263,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+columbia,2001,4292,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2001,low,Rough recall from NACUBO tables; upgrade via primary source
+columbia,2002,4208,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2002,low,Rough recall from NACUBO tables; upgrade via primary source
+columbia,2003,4350,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2003,low,Rough recall from NACUBO tables; upgrade via primary source
+columbia,2004,4493,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2004,low,Rough recall from NACUBO tables; upgrade via primary source
+columbia,2005,5191,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2005,medium,Compiled from NACUBO tables; verify against audited financials
+columbia,2006,5938,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2006,medium,Compiled from NACUBO tables; verify against audited financials
+columbia,2007,7150,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2007,medium,Compiled from NACUBO tables; verify against audited financials
+columbia,2008,7147,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; FY2008 return pending primary source
+cornell,2000,3437,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+cornell,2001,3210,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2001,low,Rough recall from NACUBO tables; upgrade via primary source
+cornell,2002,2854,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2002,low,Rough recall from NACUBO tables; upgrade via primary source
+cornell,2003,3132,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2003,low,Rough recall from NACUBO tables; upgrade via primary source
+cornell,2004,3749,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2004,low,Rough recall from NACUBO tables; upgrade via primary source
+cornell,2005,3930,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2005,low,Rough recall from NACUBO tables; upgrade via primary source
+cornell,2006,4321,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2006,low,Rough recall from NACUBO tables; upgrade via primary source
+cornell,2007,5425,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2007,medium,Compiled from NACUBO tables; verify against audited financials
+cornell,2008,5385,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; FY2008 return pending primary source
+cornell,2010,4379,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2010,medium,Compiled from NACUBO tables; verify against audited financials
+cornell,2011,5059,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2011,medium,Compiled from NACUBO tables; verify against audited financials
+cornell,2012,4947,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2012,medium,Compiled from NACUBO tables; verify against audited financials
+cornell,2013,5273,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2013,medium,Compiled from NACUBO tables; verify against audited financials
+cornell,2014,5890,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+cornell,2015,6038,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2015,medium,Compiled from NACUBO tables; verify against audited financials
+cornell,2017,6758,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2017,medium,Compiled from NACUBO tables; verify against audited financials
+cornell,2018,7230,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2018,medium,Compiled from NACUBO tables; verify against audited financials
+dartmouth,2000,2490,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+dartmouth,2007,3760,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2007,medium,Compiled from NACUBO tables; verify against audited financials
+dartmouth,2008,3660,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; FY2008 return pending primary source
+dartmouth,2009,2825,-19.6,,,,,investment_report,https://www.dartmouth.edu/investments,Dartmouth Investment Office FY2009,medium,CORRECTED: batch2 value 3660 was the FY2008 figure; FY2009 value approx 2825 after -19.6 pct GFC loss
+dartmouth,2010,2998,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2010,medium,Compiled from NACUBO tables; verify against audited financials
+dartmouth,2011,3413,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2011,medium,Compiled from NACUBO tables; verify against audited financials
+dartmouth,2012,3486,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2012,medium,Compiled from NACUBO tables; verify against audited financials
+dartmouth,2013,3733,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2013,medium,Compiled from NACUBO tables; verify against audited financials
+dartmouth,2014,4468,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+dartmouth,2015,4663,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2015,medium,Compiled from NACUBO tables; verify against audited financials
+dartmouth,2016,4474,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2016,medium,Compiled from NACUBO tables; verify against audited financials
+dartmouth,2017,4956,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2017,medium,Compiled from NACUBO tables; verify against audited financials
+brown,2000,1425,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+brown,2007,2780,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2007,medium,Compiled from NACUBO tables; verify against audited financials
+brown,2008,2747,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; FY2008 return pending primary source
+brown,2009,2040,-23.1,,,,,investment_report,https://investment.brown.edu,Brown Investment Office FY2009,low,GFC year; return is rough recall; verify against Brown report
+brown,2010,2200,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2010,low,Rough recall from NACUBO tables; upgrade via primary source
+brown,2011,2497,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2011,medium,Compiled from NACUBO tables; verify against audited financials
+brown,2012,2486,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2012,medium,Compiled from NACUBO tables; verify against audited financials
+brown,2013,2669,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2013,medium,Compiled from NACUBO tables; verify against audited financials
+brown,2014,2999,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+duke,2000,2660,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+duke,2007,5910,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2007,medium,Compiled from NACUBO tables; verify against audited financials
+duke,2008,6124,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; FY2008 return pending primary source
+duke,2010,4823,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2010,medium,Compiled from NACUBO tables; verify against audited financials
+duke,2011,5747,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2011,medium,Compiled from NACUBO tables; verify against audited financials
+duke,2012,5555,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2012,medium,Compiled from NACUBO tables; verify against audited financials
+duke,2013,6040,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2013,medium,Compiled from NACUBO tables; verify against audited financials
+duke,2014,7037,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+duke,2015,7297,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2015,medium,Compiled from NACUBO tables; verify against audited financials
+duke,2016,6840,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2016,medium,Compiled from NACUBO tables; verify against audited financials
+duke,2017,7911,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2017,medium,Compiled from NACUBO tables; verify against audited financials
+duke,2018,8525,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2018,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2000,3828,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+uchicago,2007,6204,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2007,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2008,6632,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; FY2008 return pending primary source
+uchicago,2009,5094,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,medium,GFC year; compiled from NACUBO tables
+uchicago,2010,5545,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2010,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2011,6575,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2011,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2012,6571,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2012,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2013,6668,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2013,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2014,7546,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2015,7550,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2015,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2016,7001,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2016,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2017,7524,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2017,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2018,8164,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2018,medium,Compiled from NACUBO tables; verify against audited financials
+uchicago,2019,8499,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,medium,Compiled from NACUBO tables; verify against audited financials
+northwestern,2000,3885,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,FY ends Aug 31; rough recall; upgrade via primary source
+northwestern,2007,7244,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2007,medium,FY ends Aug 31; compiled from NACUBO tables
+northwestern,2008,7243,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,FY ends Aug 31; compiled from NACUBO tables
+northwestern,2009,5445,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,medium,FY ends Aug 31; GFC year; compiled from NACUBO tables
+northwestern,2010,5945,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2010,low,FY ends Aug 31; rough recall; upgrade via primary source
+northwestern,2011,7182,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2011,low,FY ends Aug 31; rough recall; upgrade via primary source
+northwestern,2012,7119,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2012,low,FY ends Aug 31; rough recall; upgrade via primary source
+northwestern,2013,7883,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2013,low,FY ends Aug 31; rough recall; upgrade via primary source
+northwestern,2014,9778,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,FY ends Aug 31; compiled from NACUBO tables
+northwestern,2015,10193,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2015,medium,FY ends Aug 31; compiled from NACUBO tables
+northwestern,2016,9648,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2016,medium,FY ends Aug 31; compiled from NACUBO tables
+northwestern,2017,10437,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2017,medium,FY ends Aug 31; compiled from NACUBO tables
+northwestern,2018,11087,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2018,medium,FY ends Aug 31; compiled from NACUBO tables
+northwestern,2019,11091,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,medium,FY ends Aug 31; compiled from NACUBO tables
+rice,2000,3372,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+rice,2007,4610,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2007,medium,Compiled from NACUBO tables; verify against audited financials
+rice,2008,4611,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; FY2008 return pending primary source
+rice,2009,3613,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,medium,GFC year; compiled from NACUBO tables
+rice,2014,5528,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+rice,2015,5557,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2015,low,Rough recall from NACUBO tables; upgrade via primary source
+rice,2016,5324,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2016,low,Rough recall from NACUBO tables; upgrade via primary source
+rice,2017,5814,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2017,low,Rough recall from NACUBO tables; upgrade via primary source
+rice,2018,6277,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2018,low,Rough recall from NACUBO tables; upgrade via primary source
+rice,2019,6479,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,medium,Compiled from NACUBO tables; verify against audited financials
+rice,2020,6163,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2020,medium,Compiled from NACUBO tables; verify against audited financials
+umich,2000,3468,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via state financial report
+umich,2007,7090,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2007,medium,Compiled from NACUBO tables; verify against annual financial report
+umich,2008,7572,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; verify against annual financial report
+umich,2010,6564,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2010,medium,Compiled from NACUBO tables; verify against annual financial report
+umich,2011,7835,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2011,medium,Compiled from NACUBO tables; verify against annual financial report
+umich,2012,7690,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2012,medium,Compiled from NACUBO tables; verify against annual financial report
+umich,2013,8382,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2013,medium,Compiled from NACUBO tables; verify against annual financial report
+uva,2000,1900,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via UVIMCO report
+uva,2008,5100,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; verify against UVIMCO report
+uva,2009,3900,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,low,GFC year; rough recall; upgrade via UVIMCO report
+uva,2014,6949,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against UVIMCO report
+uva,2018,9500,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2018,low,Rough recall from NACUBO tables; upgrade via UVIMCO report
+uva,2024,14900,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2024,low,Rough recall from NACUBO tables; upgrade via UVIMCO report
+ut_system,2000,10000,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,FY ends Aug 31; PUF+GEF; rough recall; upgrade via UTIMCO report
+ut_system,2008,16111,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,FY ends Aug 31; PUF+GEF; compiled from NACUBO tables
+ut_system,2009,12163,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,medium,FY ends Aug 31; GFC year; compiled from NACUBO tables
+ut_system,2014,25426,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,FY ends Aug 31; PUF+GEF; compiled from NACUBO tables
+ut_system,2019,30886,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,medium,FY ends Aug 31; PUF+GEF; compiled from NACUBO tables
+ut_system,2024,47500,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2024,low,FY ends Aug 31; PUF+GEF; rough recall; upgrade via UTIMCO report
+tamu_system,2000,4030,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,FY ends Aug 31; system-wide; rough recall; upgrade via state records
+tamu_system,2008,6659,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,FY ends Aug 31; system-wide; compiled from NACUBO tables
+tamu_system,2009,5083,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,low,FY ends Aug 31; GFC year; rough recall; upgrade via state records
+tamu_system,2014,11104,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,FY ends Aug 31; system-wide; compiled from NACUBO tables
+tamu_system,2019,13525,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,medium,FY ends Aug 31; system-wide; compiled from NACUBO tables
+tamu_system,2020,13600,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2020,low,FY ends Aug 31; rough recall; upgrade via state records
+tamu_system,2023,19400,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2023,low,FY ends Aug 31; rough recall; upgrade via state records
+tamu_system,2024,20400,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2024,low,FY ends Aug 31; rough recall; upgrade via state records
+berkeley,2019,4800,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,low,Entity definition tricky: campus foundation plus regental funds attributed to Berkeley; UC pools most endowment centrally; needs careful primary-source work
+berkeley,2021,6900,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2021,low,Campus-attributed total; rough recall; needs primary-source verification
+berkeley,2023,7400,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2023,low,Campus-attributed total; rough recall; needs primary-source verification
+berkeley,2024,7900,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2024,low,Campus-attributed total; rough recall; needs primary-source verification
+williams,2000,1200,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+williams,2008,1808,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; verify against audited financials
+williams,2009,1408,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,medium,GFC year; compiled from NACUBO tables
+williams,2014,2253,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+williams,2019,2895,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,medium,Compiled from NACUBO tables; verify against audited financials
+williams,2022,3500,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2022,low,Rough recall from NACUBO tables; upgrade via primary source
+williams,2023,3600,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2023,low,Rough recall from NACUBO tables; upgrade via primary source
+williams,2024,3900,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2024,low,Rough recall from NACUBO tables; upgrade via primary source
+amherst,2000,960,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+amherst,2008,1706,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; verify against audited financials
+amherst,2009,1305,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,medium,GFC year; compiled from NACUBO tables
+amherst,2014,2149,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+amherst,2019,2374,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,medium,Compiled from NACUBO tables; verify against audited financials
+amherst,2020,2500,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2020,low,Rough recall from NACUBO tables; upgrade via primary source
+amherst,2022,3300,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2022,low,Rough recall from NACUBO tables; upgrade via primary source
+amherst,2023,3200,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2023,low,Rough recall from NACUBO tables; upgrade via primary source
+amherst,2024,3400,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2024,low,Rough recall from NACUBO tables; upgrade via primary source
+pomona,2000,1050,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+pomona,2008,1795,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; verify against audited financials
+pomona,2009,1460,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,low,GFC year; rough recall; upgrade via primary source
+pomona,2014,2101,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+pomona,2019,2300,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,medium,Compiled from NACUBO tables; verify against audited financials
+pomona,2022,2800,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2022,low,Rough recall from NACUBO tables; upgrade via primary source
+pomona,2023,2700,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2023,low,Rough recall from NACUBO tables; upgrade via primary source
+pomona,2024,3000,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2024,low,Rough recall from NACUBO tables; upgrade via primary source
+grinnell,2000,1000,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+grinnell,2008,1472,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; verify against audited financials
+grinnell,2009,1266,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,low,GFC year; rough recall; upgrade via primary source
+grinnell,2014,1830,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+grinnell,2019,2058,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,medium,Compiled from NACUBO tables; verify against audited financials
+grinnell,2023,2600,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2023,low,Rough recall from NACUBO tables; upgrade via primary source
+grinnell,2024,2700,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2024,low,Rough recall from NACUBO tables; upgrade via primary source
+swarthmore,2000,1200,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2000,low,Rough recall from NACUBO tables; upgrade via primary source
+swarthmore,2008,1413,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2008,medium,Compiled from NACUBO tables; verify against audited financials
+swarthmore,2009,1128,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,medium,GFC year; compiled from NACUBO tables
+swarthmore,2014,1876,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2014,medium,Compiled from NACUBO tables; verify against audited financials
+swarthmore,2019,2131,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2019,medium,Compiled from NACUBO tables; verify against audited financials
+swarthmore,2020,2100,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2020,low,Rough recall from NACUBO tables; upgrade via primary source
+swarthmore,2021,2900,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2021,medium,Compiled from NACUBO tables; verify against audited financials
+swarthmore,2022,2700,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2022,low,Rough recall from NACUBO tables; upgrade via primary source
+swarthmore,2023,2700,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2023,low,Rough recall from NACUBO tables; upgrade via primary source
+swarthmore,2024,2900,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2024,low,Rough recall from NACUBO tables; upgrade via primary source
+umich,2009,6001,,,,,,nacubo,https://www.nacubo.org,NACUBO Study FY2009,medium,GFC year; compiled from NACUBO tables; verify against annual financial report

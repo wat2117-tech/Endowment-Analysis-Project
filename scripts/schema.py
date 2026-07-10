@@ -384,9 +384,9 @@ INSTITUTION_SEED = [
     ('berkeley', 'University of California, Berkeley', 'Berkeley', 'public', 'Berkeley', 'CA', None, 1868, 45000, 0, 'hybrid', None, '06-30'),
 
     # Liberal Arts Colleges
-    ('williams', 'Williams College', 'Williams', 'lac', 'Williamstown', 'MA', '04-1767068', 1793, 2100, 0, 'hybrid', None, '06-30'),
-    ('amherst', 'Amherst College', 'Amherst', 'lac', 'Amherst', 'MA', '04-1767060', 1821, 1900, 0, 'hybrid', None, '06-30'),
-    ('pomona', 'Pomona College', 'Pomona', 'lac', 'Claremont', 'CA', '95-1644054', 1887, 1800, 0, 'ocio', None, '06-30'),
+    ('williams', 'Williams College', 'Williams', 'lac', 'Williamstown', 'MA', '04-2104847', 1793, 2100, 0, 'hybrid', None, '06-30'),
+    ('amherst', 'Amherst College', 'Amherst', 'lac', 'Amherst', 'MA', '04-2103542', 1821, 1900, 0, 'hybrid', None, '06-30'),
+    ('pomona', 'Pomona College', 'Pomona', 'lac', 'Claremont', 'CA', '95-1664112', 1887, 1800, 0, 'ocio', None, '06-30'),
     ('grinnell', 'Grinnell College', 'Grinnell', 'lac', 'Grinnell', 'IA', '42-0680459', 1846, 1700, 0, 'hybrid', None, '06-30'),
     ('swarthmore', 'Swarthmore College', 'Swarthmore', 'lac', 'Swarthmore', 'PA', '23-1352040', 1864, 1600, 0, 'hybrid', None, '06-30'),
 ]
