@@ -38,6 +38,15 @@ endowment value (5–15% difference typical).
 - EINs fixed in schema.py + DB: Amherst 04-2103542, Williams 04-2104847,
   Pomona 95-1664112 (previous values returned ProPublica API errors).
 
+## Missing-data policy
+
+Remaining gaps are **flagged, not filled** (see `docs/uncertainty.md`).
+Inaccessible information — unpublished LAC returns, archival NACUBO tables,
+Berkeley's entity ambiguity — stays NULL with a documented reason. Working
+transparently with uncertainty is part of the project's methodology; the
+gap inventory below is a record of what is *knowable*, not a to-do list to
+force to 100%.
+
 ## Remaining Phase 1 work
 
 1. **Verify against primary documents** — download audited financial

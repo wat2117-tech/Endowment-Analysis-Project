@@ -80,16 +80,18 @@ def load(conn):
     cur = conn.cursor()
     cur.execute("""
         SELECT e.institution_id, i.short_name, i.tier, i.fiscal_year_end,
-               e.fiscal_year, e.annual_return_pct, e.endowment_value_millions
+               e.fiscal_year, e.annual_return_pct, e.endowment_value_millions,
+               e.return_confidence
         FROM endowment_annual e JOIN institutions i ON i.id = e.institution_id
         ORDER BY e.institution_id, e.fiscal_year
     """)
     data = {}
-    for inst, name, tier, fye, fy, ret, val in cur.fetchall():
+    for inst, name, tier, fye, fy, ret, val, rconf in cur.fetchall():
         d = data.setdefault(inst, {'name': name, 'tier': tier, 'fye': fye,
-                                   'returns': {}, 'values': {}})
+                                   'returns': {}, 'values': {}, 'ret_conf': {}})
         if ret is not None:
             d['returns'][fy] = ret
+            d['ret_conf'][fy] = rconf
         if val is not None:
             d['values'][fy] = val
 
@@ -117,6 +119,9 @@ def analyze_institution(d, bench, min_years):
     m = {'n_years': len(years),
          'year_span': f"{years[0]}-{years[-1]}" if years else "-",
          'ranked': len(years) >= min_years}
+    if years:
+        solid = sum(1 for y in years if d['ret_conf'].get(y) in ('high', 'medium'))
+        m['ret_conf_medium_plus_pct'] = round(solid / len(years) * 100)
 
     if years:
         rs = [rets[y] for y in years]
@@ -217,7 +222,8 @@ def main():
 
     os.makedirs(OUT_DIR, exist_ok=True)
 
-    cols = ['n_years', 'year_span', 'geo_return', 'real_geo_return', 'volatility',
+    cols = ['n_years', 'year_span', 'ret_conf_medium_plus_pct',
+            'geo_return', 'real_geo_return', 'volatility',
             'sharpe', 'sortino', 'max_drawdown', 'gfc_recovery_years',
             'excess_vs_6040', 'excess_vs_sp500',
             'dotcom_fy01_02', 'gfc_fy08_09', 'covid_fy20', 'rate_shock_fy22_23',
@@ -249,14 +255,19 @@ def main():
                 "- Stanford, Northwestern, UT System, Texas A&M have Aug-31 FYE; "
                 "their crisis-window returns lag June-FYE peers by two months.\n"
                 "- Return series lengths differ; Sharpe/volatility across "
-                "institutions with different spans are not strictly comparable.\n\n")
+                "institutions with different spans are not strictly comparable.\n"
+                "- Missing data is flagged, never estimated (docs/uncertainty.md). "
+                "The full institution-by-year picture is in "
+                "output/data_coverage_map.md. `Conf` = share of return "
+                "observations at medium-or-better confidence.\n\n")
         f.write("## Provisional ranking (partial composite)\n\n")
-        f.write("| # | Institution | Tier | Yrs | Ann. return | Real | Vol | Sharpe "
+        f.write("| # | Institution | Tier | Yrs | Conf | Ann. return | Real | Vol | Sharpe "
                 "| MaxDD | GFC rec (yrs) | vs 60/40 | Composite |\n")
-        f.write("|---|---|---|---|---|---|---|---|---|---|---|---|\n")
+        f.write("|---|---|---|---|---|---|---|---|---|---|---|---|---|\n")
         for i, r in enumerate(ranked, 1):
             m = r['metrics']
             f.write(f"| {i} | {r['name']} | {r['tier']} | {m['n_years']} "
+                    f"| {m.get('ret_conf_medium_plus_pct', '-')}% "
                     f"| {fmt(m.get('geo_return'), 1, '%')} "
                     f"| {fmt(m.get('real_geo_return'), 1, '%')} "
                     f"| {fmt(m.get('volatility'), 1)} "
@@ -279,7 +290,10 @@ def main():
         unranked = [r['name'] for r in results.values()
                     if not r['metrics']['ranked']]
         f.write(f"\n## Not ranked (insufficient return data)\n\n"
-                f"{', '.join(sorted(unranked))}\n")
+                f"{', '.join(sorted(unranked))}\n\n"
+                f"Per the missing-data policy these are excluded rather than "
+                f"padded with estimates; they enter the ranking only when "
+                f"citable return series are collected.\n")
 
     print(f"Wrote {csv_path}")
     print(f"Wrote {md_path}\n")

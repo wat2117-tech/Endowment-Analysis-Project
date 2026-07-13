@@ -8,19 +8,20 @@
 - Composite is PARTIAL: returns 30% + risk-adjusted 30% + drawdown/recovery 15%, renormalized to 100. Allocation-evolution (15%) and governance (10%) components await Phase 1 allocation data and Phase 3 qualitative work.
 - Stanford, Northwestern, UT System, Texas A&M have Aug-31 FYE; their crisis-window returns lag June-FYE peers by two months.
 - Return series lengths differ; Sharpe/volatility across institutions with different spans are not strictly comparable.
+- Missing data is flagged, never estimated (docs/uncertainty.md). The full institution-by-year picture is in output/data_coverage_map.md. `Conf` = share of return observations at medium-or-better confidence.
 
 ## Provisional ranking (partial composite)
 
-| # | Institution | Tier | Yrs | Ann. return | Real | Vol | Sharpe | MaxDD | GFC rec (yrs) | vs 60/40 | Composite |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Princeton | ivy | 22 | 11.2% | 8.3% | 14.2 | 0.73 | -23.7% | 3 | 3.9% | 85.7 |
-| 2 | Yale | ivy | 25 | 11.2% | 8.4% | 13.5 | 0.75 | -24.6% | 6 | 5.1% | 78.6 |
-| 3 | MIT | elite_private | 19 | 10.1% | 7.3% | 15.0 | 0.63 | -20.7% | 4 | 2.8% | 58.6 |
-| 4 | Penn | ivy | 14 | 8.8% | 6.5% | 12.9 | 0.69 | -15.7% | 3 | 1.4% | 58.6 |
-| 5 | Stanford | elite_private | 14 | 9.5% | 7.7% | 14.8 | 0.66 | -25.9% | 5 | 0.6% | 51.4 |
-| 6 | Columbia | ivy | 15 | 7.9% | 5.3% | 12.1 | 0.61 | -16.1% | 3 | -0.5% | 30.0 |
-| 7 | Harvard | ivy | 25 | 8.9% | 6.2% | 12.5 | 0.62 | -27.3% | 7 | 2.8% | 28.6 |
-| 8 | Brown | ivy | 11 | 7.2% | 4.7% | 18.0 | 0.39 | -23.1% | 6 | 1.8% | 8.6 |
+| # | Institution | Tier | Yrs | Conf | Ann. return | Real | Vol | Sharpe | MaxDD | GFC rec (yrs) | vs 60/40 | Composite |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Princeton | ivy | 22 | 86% | 11.2% | 8.3% | 14.2 | 0.73 | -23.7% | 3 | 3.9% | 85.7 |
+| 2 | Yale | ivy | 25 | 100% | 11.2% | 8.4% | 13.5 | 0.75 | -24.6% | 6 | 5.1% | 78.6 |
+| 3 | MIT | elite_private | 19 | 89% | 10.1% | 7.3% | 15.0 | 0.63 | -20.7% | 4 | 2.8% | 58.6 |
+| 4 | Penn | ivy | 14 | 100% | 8.8% | 6.5% | 12.9 | 0.69 | -15.7% | 3 | 1.4% | 58.6 |
+| 5 | Stanford | elite_private | 14 | 93% | 9.5% | 7.7% | 14.8 | 0.66 | -25.9% | 5 | 0.6% | 51.4 |
+| 6 | Columbia | ivy | 15 | 100% | 7.9% | 5.3% | 12.1 | 0.61 | -16.1% | 3 | -0.5% | 30.0 |
+| 7 | Harvard | ivy | 25 | 100% | 8.9% | 6.2% | 12.5 | 0.62 | -27.3% | 7 | 2.8% | 28.6 |
+| 8 | Brown | ivy | 11 | 91% | 7.2% | 4.7% | 18.0 | 0.39 | -23.1% | 6 | 1.8% | 8.6 |
 
 ## Crisis regimes (cumulative return in window)
 
@@ -41,3 +42,5 @@
 ## Not ranked (insufficient return data)
 
 Amherst, Berkeley, Cornell, Dartmouth, Duke, Grinnell, Michigan, Northwestern, Pomona, Rice, Swarthmore, Texas A&M, UChicago, UT System, UVA, Williams
+
+Per the missing-data policy these are excluded rather than padded with estimates; they enter the ranking only when citable return series are collected.
